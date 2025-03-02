@@ -1,5 +1,5 @@
 # Conestoga Class Room Inventory Application
-![Screenshot 2025-03-02 130447](https://github.com/user-attachments/assets/def04b67-a9ab-4aaa-aa0e-6b2b4c5d9fc0)
+<img src="https://github.com/user-attachments/assets/def04b67-a9ab-4aaa-aa0e-6b2b4c5d9fc0" width="500" />
 
 
 ## Overview
