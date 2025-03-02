@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application is designed to maintain an inventory of classrooms at Conestoga College. It allows users to **add, update, and filter classroom information**, including room number, capacity, available equipment, and accessibility. The application is built using **C# with a WinForms interface** and incorporates a class library for data storage and file I/O operations [1].
+This application is designed to maintain an inventory of classrooms at Conestoga College. It allows users to **add, update, and filter classroom information**, including room number, capacity, available equipment, and accessibility. The application uses **C# with a WinForms interface** and incorporates a class library for data storage and file I/O operations
 
 ## Key Features
 
