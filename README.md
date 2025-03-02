@@ -48,43 +48,24 @@ This application is designed to maintain an inventory of classrooms at Conestoga
 
 ## Data File Format
 
-The "classrooms.txt" file stores classroom data [1, 2]. **Each line in the file represents a classroom object, with properties delimited by a vertical slash "|"** [1]. The order of properties should match the order defined in the `Classroom` class [1].
+The "classrooms.txt" file stores classroom data [1, 2]. **Each line in the file represents a classroom object, with properties delimited by a vertical slash "|"** [1]. The order of properties should match the order defined in the `Classroom` class
 
 ## Example Room ID Format
 
-Room IDs should follow the format "WMB-4G15" [2]:
+Room IDs should follow the format "WMB-4G15":
 
-*   **W = Waterloo, D = Doon, C = Cambridge** [2]
-*   **MB = main building** [2]
-*   **4 = 4th floor** [2]
-*   **G = any single alphabetic character** [2]
-*   **15 = room number on the 4th floor** [2]
+*   **W = Waterloo, D = Doon, C = Cambridge**
+*   **MB = main building**
+*   **4 = 4th floor**
+*   **G = any single alphabetic character**
+*   **15 = room number on the 4th floor**
 
-The letters are not case sensitive, and the dash is optional [2].
+The letters are not case sensitive, and the dash is optional
 
 ## Notes
 
-*   When the application is loading data from the file to the listbox, only the campus/capacity that is selected will be displayed [3].
-*   **Feedback is provided through message labels (in blue for success, red for errors)** [2].
-*   In validating user input or adding/updating a classroom, the **Room ID is required and must be a positive integer** [2].
-
-## Credits
-
-*   Bart Simpson (123456) - as indicated in the sample form [1]
-
-## License
-
-[Add License Information Here]
-
-## Important Considerations
-
-*   This README is based on the provided excerpts and might need adjustments based on the complete application code.
-*   Remember to replace placeholders (e.g., license information) with accurate details.
-*   It would be beneficial to include screenshots of the application in action.
-*   **Submissions will NOT be accepted after the due date/time** [1].
-*   **All academic integrity violations will be dealt with accordingly!** [1]
-
-Start typing...
-1 source
+* When the application loads data from the file to the list box, only the campus/capacity that is selected will be displayed
+*   **Feedback is provided through message labels (in blue for success, red for errors)**
+*   In validating user input or adding/updating a classroom, the **Room ID is required and must be a positive integer**
 
 
